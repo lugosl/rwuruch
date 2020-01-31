@@ -1,0 +1,8 @@
+  683  31/01/20 14:51:11 echo "# rwuruch" >> README.md
+  684  31/01/20 14:51:13 ls
+  685  31/01/20 14:51:22 git init
+  686  31/01/20 14:51:29 git add README.md
+  687  31/01/20 14:51:35 git commit -m "first commit"
+  688  31/01/20 14:51:43 git remote add origin https://github.com/lugosl/rwuruch.git
+  689  31/01/20 14:51:49 git push -u origin master
+  690  31/01/20 14:53:00 history
